@@ -1,0 +1,8 @@
+user12@example.com
+user@gmail.com
+bug@@@com.ru
+@gmail.com
+Just Text
+123@localhost
+user@localhost
+User@Example.COM

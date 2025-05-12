@@ -1,0 +1,14 @@
+C:\programing LB\LB8.1\obj\Debug\net8.0\LB8.1.GeneratedMSBuildEditorConfig.editorconfig
+C:\programing LB\LB8.1\obj\Debug\net8.0\LB8.1.AssemblyInfoInputs.cache
+C:\programing LB\LB8.1\obj\Debug\net8.0\LB8.1.AssemblyInfo.cs
+C:\programing LB\LB8.1\obj\Debug\net8.0\LB8.1.csproj.CoreCompileInputs.cache
+C:\programing LB\LB8.1\bin\Debug\net8.0\LB8.1.exe
+C:\programing LB\LB8.1\bin\Debug\net8.0\LB8.1.deps.json
+C:\programing LB\LB8.1\bin\Debug\net8.0\LB8.1.runtimeconfig.json
+C:\programing LB\LB8.1\bin\Debug\net8.0\LB8.1.dll
+C:\programing LB\LB8.1\bin\Debug\net8.0\LB8.1.pdb
+C:\programing LB\LB8.1\obj\Debug\net8.0\LB8.1.dll
+C:\programing LB\LB8.1\obj\Debug\net8.0\refint\LB8.1.dll
+C:\programing LB\LB8.1\obj\Debug\net8.0\LB8.1.pdb
+C:\programing LB\LB8.1\obj\Debug\net8.0\LB8.1.genruntimeconfig.cache
+C:\programing LB\LB8.1\obj\Debug\net8.0\ref\LB8.1.dll

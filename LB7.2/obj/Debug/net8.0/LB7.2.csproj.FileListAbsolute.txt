@@ -1,0 +1,14 @@
+C:\programing LB\LB7.2\bin\Debug\net8.0\LB7.2.exe
+C:\programing LB\LB7.2\bin\Debug\net8.0\LB7.2.deps.json
+C:\programing LB\LB7.2\bin\Debug\net8.0\LB7.2.runtimeconfig.json
+C:\programing LB\LB7.2\bin\Debug\net8.0\LB7.2.dll
+C:\programing LB\LB7.2\bin\Debug\net8.0\LB7.2.pdb
+C:\programing LB\LB7.2\obj\Debug\net8.0\LB7.2.GeneratedMSBuildEditorConfig.editorconfig
+C:\programing LB\LB7.2\obj\Debug\net8.0\LB7.2.AssemblyInfoInputs.cache
+C:\programing LB\LB7.2\obj\Debug\net8.0\LB7.2.AssemblyInfo.cs
+C:\programing LB\LB7.2\obj\Debug\net8.0\LB7.2.csproj.CoreCompileInputs.cache
+C:\programing LB\LB7.2\obj\Debug\net8.0\LB7.2.dll
+C:\programing LB\LB7.2\obj\Debug\net8.0\refint\LB7.2.dll
+C:\programing LB\LB7.2\obj\Debug\net8.0\LB7.2.pdb
+C:\programing LB\LB7.2\obj\Debug\net8.0\LB7.2.genruntimeconfig.cache
+C:\programing LB\LB7.2\obj\Debug\net8.0\ref\LB7.2.dll

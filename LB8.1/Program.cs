@@ -1,9 +1,13 @@
-﻿using System;
+
+
+
+
+using System;
 
 
 class Program
 {
-    
+  
     static void DisplayCurrentTime()
     {
 
@@ -32,19 +36,19 @@ class Program
         if (number == 2) return true;  
         if (number % 2 == 0) return false; 
 
-        // Оптимізація перевірки простих чисел - перевіряємо до квадратного кореня числа
+        // Оптимізація перевірки простих чисел 
         var boundary = (int)Math.Floor(Math.Sqrt(number));
 
         // Перевірка непарних дільників
         for (int i = 3; i <= boundary; i += 2)
         {
-            if (number % i == 0) return false; // Якщо знайдено дільник, число не просте
+            if (number % i == 0) return false; // число не просте
         }
 
-        return true; // Якщо дільників не знайдено, число просте
+        return true; // число просте
     }
 
-    // Метод для перевірки, чи є число числом Фібоначчі (використовує делегат Predicate)
+    //  чи є число числом Фібоначчі 
     static bool IsFibonacciNumber(int number)
     {
       // Фібоначчі
@@ -52,14 +56,14 @@ class Program
                IsPerfectSquare(5 * number * number - 4);
     }
 
-    // Допоміжний метод для перевірки, чи є число perfect square
+    //  чи є число perfect square
     static bool IsPerfectSquare(int number)
     {
         int sqrt = (int)Math.Sqrt(number);
         return sqrt * sqrt == number;
     }
 
-    // Метод для обчислення площі трикутника (використовує делегат Func)
+    //  обчислення площі трикутника 
     static double CalculateTriangleArea(double baseLength, double height)
     {
         
@@ -75,7 +79,8 @@ class Program
 
     static void Main(string[] args)
     {
-        // Демонстрація Action делегатів
+        Console.OutputEncoding = System.Text.Encoding.UTF8;
+       
         Action displayTime = DisplayCurrentTime;
         Action displayDate = DisplayCurrentDate;
         Action displayDayOfWeek = DisplayCurrentDayOfWeek;
@@ -103,7 +108,7 @@ class Program
             Console.WriteLine($"{num} є числом Фібоначчі: {isFibonacci(num)}");
         }
 
-        // Демонстрація Func делегатів для обчислення площ
+        //делегати для обчислення площ
         Func<double, double, double> triangleArea = CalculateTriangleArea;
         Func<double, double, double> rectangleArea = CalculateRectangleArea;
 

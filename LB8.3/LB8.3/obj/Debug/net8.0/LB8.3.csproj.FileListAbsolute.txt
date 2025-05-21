@@ -1,0 +1,14 @@
+C:\programing LB\LB8.3\LB8.3\bin\Debug\net8.0\LB8.3.exe
+C:\programing LB\LB8.3\LB8.3\bin\Debug\net8.0\LB8.3.deps.json
+C:\programing LB\LB8.3\LB8.3\bin\Debug\net8.0\LB8.3.runtimeconfig.json
+C:\programing LB\LB8.3\LB8.3\bin\Debug\net8.0\LB8.3.dll
+C:\programing LB\LB8.3\LB8.3\bin\Debug\net8.0\LB8.3.pdb
+C:\programing LB\LB8.3\LB8.3\obj\Debug\net8.0\LB8.3.GeneratedMSBuildEditorConfig.editorconfig
+C:\programing LB\LB8.3\LB8.3\obj\Debug\net8.0\LB8.3.AssemblyInfoInputs.cache
+C:\programing LB\LB8.3\LB8.3\obj\Debug\net8.0\LB8.3.AssemblyInfo.cs
+C:\programing LB\LB8.3\LB8.3\obj\Debug\net8.0\LB8.3.csproj.CoreCompileInputs.cache
+C:\programing LB\LB8.3\LB8.3\obj\Debug\net8.0\LB8.3.dll
+C:\programing LB\LB8.3\LB8.3\obj\Debug\net8.0\refint\LB8.3.dll
+C:\programing LB\LB8.3\LB8.3\obj\Debug\net8.0\LB8.3.pdb
+C:\programing LB\LB8.3\LB8.3\obj\Debug\net8.0\LB8.3.genruntimeconfig.cache
+C:\programing LB\LB8.3\LB8.3\obj\Debug\net8.0\ref\LB8.3.dll

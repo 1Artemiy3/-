@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ArrayOfBook xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Book>
+    <AuthorName>Тарас Шевченко</AuthorName>
+    <Title>Кобзар</Title>
+    <PublicationYear>1840</PublicationYear>
+    <TotalCopies>15</TotalCopies>
+    <BorrowedCopies>3</BorrowedCopies>
+  </Book>
+  <Book>
+    <AuthorName>Іван Франко</AuthorName>
+    <Title>Захар Беркут</Title>
+    <PublicationYear>1883</PublicationYear>
+    <TotalCopies>10</TotalCopies>
+    <BorrowedCopies>2</BorrowedCopies>
+  </Book>
+  <Book>
+    <AuthorName>Михайло Коцюбинський</AuthorName>
+    <Title>Тіні забутих предків</Title>
+    <PublicationYear>1911</PublicationYear>
+    <TotalCopies>8</TotalCopies>
+    <BorrowedCopies>1</BorrowedCopies>
+  </Book>
+  <Book>
+    <AuthorName>Леся Українка</AuthorName>
+    <Title>Лісова пісня</Title>
+    <PublicationYear>1911</PublicationYear>
+    <TotalCopies>12</TotalCopies>
+    <BorrowedCopies>4</BorrowedCopies>
+  </Book>
+  <Book>
+    <AuthorName>Панас Мирний</AuthorName>
+    <Title>Хіба ревуть воли, як ясла повні?</Title>
+    <PublicationYear>1875</PublicationYear>
+    <TotalCopies>6</TotalCopies>
+    <BorrowedCopies>0</BorrowedCopies>
+  </Book>
+  <Book>
+    <AuthorName>Григорій Квітка-Основ'яненко</AuthorName>
+    <Title>Маруся</Title>
+    <PublicationYear>1834</PublicationYear>
+    <TotalCopies>5</TotalCopies>
+    <BorrowedCopies>5</BorrowedCopies>
+  </Book>
+  <Book>
+    <AuthorName>Олесь Гончар</AuthorName>
+    <Title>Собор</Title>
+    <PublicationYear>1968</PublicationYear>
+    <TotalCopies>20</TotalCopies>
+    <BorrowedCopies>5</BorrowedCopies>
+  </Book>
+  <Book>
+    <AuthorName>Василь Стус</AuthorName>
+    <Title>Зимові дерева</Title>
+    <PublicationYear>1970</PublicationYear>
+    <TotalCopies>7</TotalCopies>
+    <BorrowedCopies>1</BorrowedCopies>
+  </Book>
+  <Book>
+    <AuthorName>Ліна Костенко</AuthorName>
+    <Title>Записки українського самашедшого</Title>
+    <PublicationYear>2010</PublicationYear>
+    <TotalCopies>25</TotalCopies>
+    <BorrowedCopies>8</BorrowedCopies>
+  </Book>
+  <Book>
+    <AuthorName>Юрій Андрухович</AuthorName>
+    <Title>Перверзія</Title>
+    <PublicationYear>1996</PublicationYear>
+    <TotalCopies>14</TotalCopies>
+    <BorrowedCopies>3</BorrowedCopies>
+  </Book>
+</ArrayOfBook>

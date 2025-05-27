@@ -1,0 +1,82 @@
+﻿[
+  {
+    "AuthorName": "Тарас Шевченко",
+    "Title": "Кобзар",
+    "PublicationYear": 1840,
+    "TotalCopies": 15,
+    "BorrowedCopies": 3,
+    "AvailableCopies": 12
+  },
+  {
+    "AuthorName": "Іван Франко",
+    "Title": "Захар Беркут",
+    "PublicationYear": 1883,
+    "TotalCopies": 10,
+    "BorrowedCopies": 2,
+    "AvailableCopies": 8
+  },
+  {
+    "AuthorName": "Михайло Коцюбинський",
+    "Title": "Тіні забутих предків",
+    "PublicationYear": 1911,
+    "TotalCopies": 8,
+    "BorrowedCopies": 1,
+    "AvailableCopies": 7
+  },
+  {
+    "AuthorName": "Леся Українка",
+    "Title": "Лісова пісня",
+    "PublicationYear": 1911,
+    "TotalCopies": 12,
+    "BorrowedCopies": 4,
+    "AvailableCopies": 8
+  },
+  {
+    "AuthorName": "Панас Мирний",
+    "Title": "Хіба ревуть воли, як ясла повні?",
+    "PublicationYear": 1875,
+    "TotalCopies": 6,
+    "BorrowedCopies": 0,
+    "AvailableCopies": 6
+  },
+  {
+    "AuthorName": "Григорій Квітка-Основ'яненко",
+    "Title": "Маруся",
+    "PublicationYear": 1834,
+    "TotalCopies": 5,
+    "BorrowedCopies": 5,
+    "AvailableCopies": 0
+  },
+  {
+    "AuthorName": "Олесь Гончар",
+    "Title": "Собор",
+    "PublicationYear": 1968,
+    "TotalCopies": 20,
+    "BorrowedCopies": 5,
+    "AvailableCopies": 15
+  },
+  {
+    "AuthorName": "Василь Стус",
+    "Title": "Зимові дерева",
+    "PublicationYear": 1970,
+    "TotalCopies": 7,
+    "BorrowedCopies": 1,
+    "AvailableCopies": 6
+  },
+  {
+    "AuthorName": "Ліна Костенко",
+    "Title": "Записки українського самашедшого",
+    "PublicationYear": 2010,
+    "TotalCopies": 25,
+    "BorrowedCopies": 8,
+    "AvailableCopies": 17
+  },
+  {
+    "AuthorName": "Юрій Андрухович",
+    "Title": "Перверзія",
+    "PublicationYear": 1996,
+    "TotalCopies": 14,
+    "BorrowedCopies": 3,
+    "AvailableCopies": 11
+  }
+]

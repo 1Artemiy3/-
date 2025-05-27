@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ArrayOfBook xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Book>
+    <AuthorName>Тарас Шевченко</AuthorName>
+    <Title>Кобзар</Title>
+    <PublicationYear>1840</PublicationYear>
+    <TotalCopies>10</TotalCopies>
+    <BorrowedCopies>3</BorrowedCopies>
+  </Book>
+  <Book>
+    <AuthorName>Іван Франко</AuthorName>
+    <Title>Мойсей</Title>
+    <PublicationYear>1905</PublicationYear>
+    <TotalCopies>5</TotalCopies>
+    <BorrowedCopies>1</BorrowedCopies>
+  </Book>
+  <Book>
+    <AuthorName>Леся Українка</AuthorName>
+    <Title>Лісова пісня</Title>
+    <PublicationYear>1911</PublicationYear>
+    <TotalCopies>8</TotalCopies>
+    <BorrowedCopies>2</BorrowedCopies>
+  </Book>
+  <Book>
+    <AuthorName>Михайло Коцюбинський</AuthorName>
+    <Title>Тіні забутих предків</Title>
+    <PublicationYear>1913</PublicationYear>
+    <TotalCopies>12</TotalCopies>
+    <BorrowedCopies>5</BorrowedCopies>
+  </Book>
+  <Book>
+    <AuthorName>Павло Тичина</AuthorName>
+    <Title>Сонячні кларнети</Title>
+    <PublicationYear>1918</PublicationYear>
+    <TotalCopies>7</TotalCopies>
+    <BorrowedCopies>0</BorrowedCopies>
+  </Book>
+  <Book>
+    <AuthorName>Остап Вишня</AuthorName>
+    <Title>Усмішки</Title>
+    <PublicationYear>1928</PublicationYear>
+    <TotalCopies>15</TotalCopies>
+    <BorrowedCopies>8</BorrowedCopies>
+  </Book>
+  <Book>
+    <AuthorName>Григорій Сковорода</AuthorName>
+    <Title>Сад божественних пісень</Title>
+    <PublicationYear>1753</PublicationYear>
+    <TotalCopies>6</TotalCopies>
+    <BorrowedCopies>2</BorrowedCopies>
+  </Book>
+</ArrayOfBook>

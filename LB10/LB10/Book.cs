@@ -1,4 +1,4 @@
-﻿using System;
+using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;
@@ -8,16 +8,20 @@ public class Book
 {
     public string AuthorFullName { get; set; }
     public string Title { get; set; }
-    public int PublicationYear { get; set; }
+    public int YearPublished { get; set; }
     public int TotalCopies { get; set; }
-    public int TakenCopies { get; set; }
+    public int BorrowedCopies { get; set; }
 
-    public Book(string authorFullName, string title, int publicationYear, int totalCopies, int takenCopies)
+    public Book() { }
+
+    public Book(string authorFullName, string title, int yearPublished, int totalCopies, int borrowedCopies)
     {
         AuthorFullName = authorFullName;
         Title = title;
-        PublicationYear = publicationYear;
+        YearPublished = yearPublished;
         TotalCopies = totalCopies;
-        TakenCopies = takenCopies;
+        BorrowedCopies = borrowedCopies;
     }
+
+    public int AvailableCopies => TotalCopies - BorrowedCopies;
 }

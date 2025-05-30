@@ -32,7 +32,11 @@ class Program
         };
 
         string jsonPath = "books.json";
-        File.WriteAllText(jsonPath, JsonSerializer.Serialize(books));
+        var options = new JsonSerializerOptions
+        {
+            WriteIndented = true
+        };
+        File.WriteAllText(jsonPath, JsonSerializer.Serialize(books, options));
 
         Book[] booksFromJson = JsonSerializer.Deserialize<Book[]>(File.ReadAllText(jsonPath));
 
@@ -70,5 +74,3 @@ class Program
         }
     }
 }
-
-
